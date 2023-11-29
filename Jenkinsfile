@@ -1,6 +1,6 @@
 node {
 
-   def registryProjet='formation/'
+   def registryProjet='llerumeurf5/'
    def IMAGE="${registryProjet}app:${version}"
 
     stage('Clone') {
